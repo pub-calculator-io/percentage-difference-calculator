@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ Percentage difference calculator to find percent difference between two numbers.
 == Description ==
 
 Percentage difference calculator to find percent difference between two numbers. The calculator is used to compare two positive values.
+
+__Shortcode__
+
+Use the Percentage Difference Calculator shortcode:
+
+`[ci_percentage_difference_calculator]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_percentage_difference_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Percentage Difference Calculator](https://www.calculator.io/percentage-difference-calculator/ "Percentage Difference Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Percentage Difference Calculator.
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_percentage_difference_calculator]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Percentage Difference Calculator to the sidebar through the `Appearance -> Widgets -> Percentage Difference Calculator` menu in WordPress.
+* Add the following code: `<?php display_ci_percentage_difference_calculator(); ?>` to your template where you would like the Percentage Difference Calculator to appear.
 
 == Screenshots ==
 1. The Percentage Difference Calculator Input Form.
