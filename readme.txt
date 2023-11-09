@@ -13,6 +13,8 @@ Percentage difference calculator to find percent difference between two numbers.
 
 Percentage difference calculator to find percent difference between two numbers. The calculator is used to compare two positive values.
 
+[Percentage Difference Calculator Homepage](https://www.calculator.io/percentage-difference-calculator/ "Percentage Difference Calculator Homepage")
+
 __Shortcode__
 
 Use the Percentage Difference Calculator shortcode:
