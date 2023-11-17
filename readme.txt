@@ -1,6 +1,6 @@
 === Percentage Difference Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: percentage difference, difference percentage, percentage difference formula, difference percentage calculator, percentage difference calculator online, calculate percentage difference, percentage difference between two numbers, percentage difference between, find percentage difference, percentage difference equation
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
