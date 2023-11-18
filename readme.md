@@ -1,4 +1,4 @@
-# Percentage Difference Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Percentage Difference Calculator Widget for WordPress
 
 Percentage difference calculator to find percent difference between two numbers. The calculator is used to compare two positive values.
 
