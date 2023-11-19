@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Percentage Difference Calculator by www.calculator.io
+Plugin Name: CI Percentage difference calculator
 Plugin URI: https://www.calculator.io/percentage-difference-calculator/
 Description: Percentage difference calculator to find percent difference between two numbers. The calculator is used to compare two positive values.
 Version: 1.0.0

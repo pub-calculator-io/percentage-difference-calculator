@@ -1,4 +1,4 @@
-=== Percentage Difference Calculator by www.calculator.io ===
+=== CI Percentage difference calculator ===
 Contributors: calculatorio
 Tags: percentage difference, difference percentage, percentage difference formula, difference percentage calculator, percentage difference calculator online, calculate percentage difference, percentage difference between two numbers, percentage difference between, find percentage difference, percentage difference equation
 Requires at least: 5.0
