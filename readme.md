@@ -7,7 +7,7 @@ Percentage difference calculator to find percent difference between two numbers.
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/percentage-difference-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /percentage-difference-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Percentage Difference Calculator](https://www.calculator.io/percentage-difference-calculator/ "Percentage Difference Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
