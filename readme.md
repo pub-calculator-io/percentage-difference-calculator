@@ -3,7 +3,6 @@
 Percentage difference calculator to find percent difference between two numbers. The calculator is used to compare two positive values.
 
 ![Percentage Difference Calculator Input Form](/assets/images/screenshot-1.png "Percentage Difference Calculator Input Form")
-![Percentage Difference Calculator Calculation Results](/assets/images/screenshot-2.png "Percentage Difference Calculator Calculation Results")
 
 ## Installation
 
